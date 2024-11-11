@@ -16,6 +16,13 @@
 
     <dependencies>
         <dependency>
+            <groupId>es.juliogtrenard</groupId>
+            <artifactId>ComponenteTemporizador</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/ComponenteTemporizador.jar</systemPath>
+        </dependency>
+        <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
             <version>22.0.1</version>
