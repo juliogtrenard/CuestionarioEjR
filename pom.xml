@@ -17,8 +17,8 @@
     <dependencies>
         <dependency>
             <groupId>es.juliogtrenard</groupId>
-            <artifactId>ComponenteTemporizador</artifactId>
-            <version>1.0</version>
+            <artifactId>componentetemporizador</artifactId>
+            <version>1.0-SNAPSHOT</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/lib/ComponenteTemporizador.jar</systemPath>
         </dependency>
